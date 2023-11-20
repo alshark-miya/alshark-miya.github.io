@@ -47,6 +47,7 @@
   .btn-wrapper p {
     margin: 10px 0;
     width: 100%;
+    display: inline;
   }
   
   .signup {
@@ -70,7 +71,12 @@
     border-radius: 4px;
     text-align: center;
   }
-  
+
+  .facebook ,
+  .twitter {
+    border: 5px solid brown;
+  }
+
   .btn:hover {
     opacity: 1;
   }
