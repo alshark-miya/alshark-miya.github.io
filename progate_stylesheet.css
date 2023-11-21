@@ -72,9 +72,13 @@
     text-align: center;
   }
 
+  .signup {
+    border: 5px solid orange;
+  }
+
   .facebook ,
   .twitter {
-    border: 5px solid brown;
+    border: 3px solid brown;
   }
 
   .btn:hover {
