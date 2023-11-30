@@ -60,8 +60,7 @@
   }
   
   .X {
-    /*background-color: rgba(0,0,0,0.00);*/
-    background-color: #3b5998;
+    background-color: rgba(0,0,0,1);
   }
   
   .btn {
